@@ -1,0 +1,29 @@
+.resume {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.personal-info {
+  background-color: #0b5688; /* Blue background color */
+  color: #fff; /* White text color */
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  color: black; /* Blue heading color */
+  font-size: 1.5em; /* Adjust the font size as needed */
+  margin: 0; /* Remove default margin for h2 elements */
+}
+
+ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+  
